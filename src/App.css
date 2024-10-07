@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  padding: 20px;
+}
+
+.image {
+  width: 300px;
+  margin: 30px;
+  border-radius: 20px;
+}
+
+.button {
+  background-color: lightseagreen;
+  border-radius: 15px;
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+  margin: 10px;
+  border: none;
+  cursor: pointer;
+  width: 200px;
+}
